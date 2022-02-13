@@ -1,4 +1,4 @@
-# About-me
+# ThatsFlame
 Hello World, I'm Flame:
 • 14 years old 
 • Love Science 📚
