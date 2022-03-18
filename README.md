@@ -2,12 +2,12 @@
 
 Hello World, I'm Flame: 
 
-• 14 years old
+• 13 years old 
 
-• Love Science 📚 
+• Love Science 🧬
 
-• Python Programmer 🐍 
+• Python and Ruby Programmer 🐍💎
 
-• Learning Ruby 💎 
+• Love OSINT 🔎
 
-• Studying the Cyber Security and crypto 💻 
+• Studying CyberSec and Crypto 💻
