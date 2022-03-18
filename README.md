@@ -11,3 +11,5 @@ Hello World, I'm Flame:
 • Love OSINT 🔎
 
 • Studying CyberSec and Crypto 💻
+
+• Web Developing with HTML, CSS 🔗
