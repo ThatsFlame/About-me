@@ -4,6 +4,8 @@ Hello World, I'm Flame, the smartest man in Sicily.
 
 I love Coding, CyberSec, OSINT and everything related to the OS.
 
+https://i.gifer.com/78wn.gif
+
 # Something about me:
 
 ⭐️ 15 y.o.
