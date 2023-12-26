@@ -1,9 +1,10 @@
 # ThatsFlame
 
 Hello World, I'm Flame, the smartest man in Sicily. 
+
 I love Coding, CyberSec, OSINT and everything related to the OS.
 
-Something about me:
+# Something about me:
 
 ⭐️ 15 y.o.
 
@@ -14,3 +15,13 @@ Something about me:
 ⭐️ I use Arch btw 
 
 ⭐️ Other passions: Humanistic sciences and History
+
+# Contacts
+
+➰ Discord: flamvs
+
+➰ Telegram: flamesec
+
+➰ Email: flamesolos@duck.com
+
+➰ Replit: https://replit.com/@flamesolos
