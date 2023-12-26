@@ -4,6 +4,8 @@ Hello World, I'm Flame, the smartest man in Sicily.
 
 I love Coding, CyberSec, OSINT and everything related to the OS.
 
+https://liveoverflow.ghost.io/content/images/2019/05/The_Origin_of_Script_Kiddie_Hacker_Etymology.gif
+
 # Something about me:
 
 ⭐️ 15 y.o.
