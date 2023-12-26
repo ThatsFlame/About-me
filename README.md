@@ -1,15 +1,16 @@
 # ThatsFlame
 
-Hello World, I'm Flame: 
+Hello World, I'm Flame, the smartest man in Sicily. 
+I love Coding, CyberSec, OSINT and everything related to the OS.
 
-• 14 years old 
+Something about me:
 
-• Love Science 🧬
+⭐️ 15 y.o.
 
-• Python and Ruby Programmer 🐍💎
+⭐️ I love the Ruby language.
 
-• Love OSINT 🔎
+⭐️ Currently learning Low Level programming.
 
-• Studying CyberSec and Crypto 💻
+⭐️ I use Arch btw 
 
-• Web Developing with HTML, CSS 🔗
+⭐️ Other passions: Humanistic sciences and History
