@@ -1,4 +1,4 @@
-# ThatsFlame
+# Whoami
 
 Hello World, I'm Flame, the smartest man in Sicily. 
 
